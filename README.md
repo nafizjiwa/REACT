@@ -18,6 +18,11 @@
       // .createRoot() then returns a reference to this root to call methods on
       // From DOM library .render(component here) method called on the root --> root.render to display the React component.
       // React will display <Compenent /> in the root while appearing on screen.
+      // Variable Attribute in a Component
+      Your <img /> should have two attributes:
+
+            an src of owl.src
+            an alt of owl.title
 
       //index.js
       import React from 'react';
